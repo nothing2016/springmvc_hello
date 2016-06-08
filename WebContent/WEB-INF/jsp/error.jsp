@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-发现错误:
+发现错误:请及时处理
 <h1>${exception.message}</h1>
 </body>
 </html>
